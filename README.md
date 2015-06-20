@@ -1,5 +1,4 @@
-# RuleOfThree
-Rule Of Three HTML / JS
+# Rule Of Three / Règle de Trois
 #English
 This is a simple example of Rule of Three calculator with Bootstrap and Javascript
 #Français
