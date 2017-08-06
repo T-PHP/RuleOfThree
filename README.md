@@ -4,4 +4,4 @@ This is a simple example of Rule of Three calculator with Bootstrap and Javascri
 ### Français
 Calculer une inconnue grâce à la calculatrice règle de trois construite avec Bootstrap et Javascript
 ### Demo
-http://htmlpreview.github.io/?https://github.com/T-PHP/RuleOfThree/blob/master/index.html
+https://demo.t-php.fr/RuleOfThree/
